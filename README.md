@@ -65,7 +65,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E34F26.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-%230476D0.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
