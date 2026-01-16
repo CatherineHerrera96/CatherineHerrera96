@@ -58,10 +58,6 @@
 
 <hr/>
 
-### 📌 Proyectos destacados
-- **Dashboard Power BI (KPIs)** → (link)
-- **EDA con Python / pandas** → (link)
-- **Consultas SQL para reporting** → (link)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=catherineherrera&label=Profile%20views&color=0e75b6&style=flat" alt="catherineherrera" />
